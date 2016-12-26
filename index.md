@@ -1,4 +1,5 @@
 #Anton Mironov
+
 I am a senior software engineer and/or a junior solution architect.
 
 #### Languages
@@ -28,10 +29,11 @@ A huge part of my professional experience was gained on enterprise solutions for
 * [GitHub](https://github.com/antonvmironov)
 * [LinkedIn](https://www.linkedin.com/in/antonvmironov)
 * [Twitter](https://twitter.com/AntonMironov)
+* [Medium](https://medium.com/@AntonMironov)
 * [ProductHunt](https://www.producthunt.com/@antonmironov)
  
 ## TL;DR
-I make apps for mac. Good at making apps smart.
+I make apps for mac. Good at making smart apps.
 
 #### Contacts
 * Skype: antonvmironov
