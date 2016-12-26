@@ -32,9 +32,6 @@ A huge part of my professional experience was gained on enterprise solutions for
 * [Medium](https://medium.com/@AntonMironov)
 * [ProductHunt](https://www.producthunt.com/@antonmironov)
  
-## TL;DR
-I make apps for mac. Good at making smart apps.
-
 #### Contacts
 * Skype: antonvmironov
 * Email: [antonvmironov@gmail.com](mailto:antonvmironov@gmail.com)
