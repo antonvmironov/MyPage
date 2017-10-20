@@ -7,18 +7,19 @@ I am a senior software engineer and/or a junior solution architect.
 * ★★★★★ `Objective-C`
 * ★★★☆☆ `C++`
 * ★★☆☆☆ `JavaScript`
-* `C, C#, PHP, asm x86, SQL, GLSL, Python`
+* `C, C#, PHP, asm x86, SQL, GLSL, Python, Perl`
 
 #### Experience
-5 years professional + 3 years semiprofessional + 4 years amateur
+6 years professional + 3 years semiprofessional + 4 years amateur
 
 #### Speciality
 Algorithms, data structures, solution architecture, concurrency, optimizations, I/O, documentation.
 
 #### Recent Projects
+* [Booking.com Hotel Reservations](https://itunes.apple.com/us/app/booking-com-hotel-reservations/id367003839).
 * [Gemini 2 : The intelligent duplicate file finder](https://macpaw.com/ru/gemini) Beautiful and intelligent application. I've made an architecture of solution and developed 97% of intelligence (duplicates matching, similars detection, smart selection, cleanup and etc.). The project is ⅔ Swift and ⅓ Objective-C.
-* [Setapp : Subscription service for mac apps](https://setapp.com) (in beta). I've made an architecture of solution, made tools that simplify networking, interprocess, persistence, resource management and etc. Implemented multiple major components (including UI). The project is 100% Objective-C.
-* [AsyncNinja : Library for Fast and Safe Concurrency for Swift](http://async.ninja)
+* [Setapp : Subscription service for mac apps](https://setapp.com). I've made an architecture of solution, made tools that simplify networking, interprocess, persistence, resource management and etc. Implemented multiple major components (including UI). The project is 100% Objective-C.
+* [AsyncNinja : A complete set of primitives for concurrency and reactive programming on Swift](http://async.ninja)
 
 A huge part of my professional experience was gained on enterprise solutions for macOS and iOS.
 
